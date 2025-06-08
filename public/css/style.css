@@ -1,0 +1,18 @@
+.Quora{
+    color: maroon;
+}
+
+.posts{
+    background-color: blanchedalmond;
+}
+
+.addbtn{
+    color: black;
+    text-decoration: none;
+}
+
+.addbtn:hover{
+    cursor: pointer;
+}
+
+
